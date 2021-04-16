@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: aqua;
+}
+
+img {
+    display: block;
+    position: relative; 
+    top: 25%;
+    right: 75%;
+}
